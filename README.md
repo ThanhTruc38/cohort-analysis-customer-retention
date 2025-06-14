@@ -1,5 +1,6 @@
 # COHORT ANALYSIS & CUSTOMER RETENTION (BY QUARTER)
 This project explored customer behavior through Cohort Retention Analysis and RFM Segmentation, using transactional data from an online retail dataset. The goal is to identify customer retention patterns and segment customers for strategic retention and marketing efforts.
+![Dataset]((https://archive.ics.uci.edu/dataset/502/online+retail+ii))
 
 ## Tools
 - SQL Server
