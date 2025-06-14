@@ -13,7 +13,7 @@ This project explored customer behavior through Cohort Retention Analysis and RF
 
 ## Key insights
 - Average retention rate is 52.3%
-- Lost customers account for 11%, yet contribute the highest CLV ($13.8K)
+- Lost customers account for 11%, yet contribute the highest CLV ($13.8K) --> major revenue lost
 - Recent customers have the second-highest CLV ($5.2K)
 - Champions are the largest segment (15.3%) but have the lowest CLV ($199)
 - Hibernating customers represent 21.7%
