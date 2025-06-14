@@ -20,7 +20,7 @@ This project explored customer behavior through Cohort Retention Analysis and RF
 - Hibernating customers represent 21.7% --> strategic Reactivation
 
 ## Dashboard Preview
-![Dashboard](https://raw.githubusercontent.com/ThanhTruc38/cohort-analysis-customer-retention/main/dashboard_overview.png)
+![Dashboard](https://raw.githubusercontent.com/ThanhTruc38/cohort-analysis-customer-retention/main/images/dashboard_overview.png)
 
 
 
